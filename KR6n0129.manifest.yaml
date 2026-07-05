@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0129_000.yaml, hash: 'sha256:d76ba69364eeb5e4e80faa366e40042993b5887f797c33d6466d094dd90ddfd3'}
-  - {seq: 1, filename: KR6n0129_001.yaml, hash: 'sha256:dedc6e1669bc8d0bf272a823f63ebf31d4f69ee872c953156e2a3ec5e99d4ae9'}
+  - {seq: 1, filename: KR6n0129_001.yaml, hash: 'sha256:e057033532431b4296da75fdd99213700c0fc1d7de4f5d14361bc6bb1ca3da61'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0129_001.markers.yaml, hash: 'sha256:98a0187e696c9673aa037df9dae3fd358ad9c936c06c5cbb4c1e30795e4b31f2'}
+  - {seq: 0, role: markers, filename: assets/KR6n0129_000.markers.yaml, hash: 'sha256:9af276b2a29478b301bb5dd7d9cb7974ff3d040935378dfebe755230075467a5'}
+  - {seq: 1, role: markers, filename: assets/KR6n0129_001.markers.yaml, hash: 'sha256:0cdc08559251a09cf7245f226e87672e85c74e920417e32652bd7a41a8dc3356'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 大乘入道次第一卷
   type: juan
   level: 1
-hash: sha256:1a799161d1ec7de789d9483e2edb3b60683683f82b28c80860ea1d4647a627ef
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:680a32a8cb1d20027f77314c2bbb0b598a8fff242ead6e0da7f3812ff9a690f3
