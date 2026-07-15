@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0129/v1
 canonical_location: https://kanripo.org/bkk/KR6n0129/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘入道次第
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0129_000.yaml, hash: 'sha256:d76ba69364eeb5e4e80faa366e40042993b5887f797c33d6466d094dd90ddfd3'}
-  - {seq: 1, filename: KR6n0129_001.yaml, hash: 'sha256:e057033532431b4296da75fdd99213700c0fc1d7de4f5d14361bc6bb1ca3da61'}
+  - {seq: 1, filename: KR6n0129_001.yaml, hash: 'sha256:7a9c652f5fc9b6e8ace32332ab34c5b66a630a7ea225e47a4821fa234a7bf7e7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0129_000.markers.yaml, hash: 'sha256:9af276b2a29478b301bb5dd7d9cb7974ff3d040935378dfebe755230075467a5'}
-  - {seq: 1, role: markers, filename: assets/KR6n0129_001.markers.yaml, hash: 'sha256:0cdc08559251a09cf7245f226e87672e85c74e920417e32652bd7a41a8dc3356'}
+  - {seq: 1, role: markers, filename: assets/KR6n0129_001.markers.yaml, hash: 'sha256:233ee76523a18eda79eda3e13f2f4fc62dd7a93a40b1450c2d1c8c965ad16101'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 大乘入道次第一卷
   type: juan
   level: 1
-hash: sha256:680a32a8cb1d20027f77314c2bbb0b598a8fff242ead6e0da7f3812ff9a690f3
+hash: sha256:e5d0f096c3a39d6ccec084d69bdce7d0a2c43c65d2c9cb405af3c58623273778
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
